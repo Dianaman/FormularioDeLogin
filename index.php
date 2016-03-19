@@ -20,7 +20,10 @@
         
         <br><br><button type="submit">Entrar</button>
 
+        <button type="submit">Olvidé mi contraseña</button>
       </form>
+
       
+
     </body>
 </html>
