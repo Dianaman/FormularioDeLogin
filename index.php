@@ -13,7 +13,7 @@
         <h1>Iniciar sesión</h1>
         
         <fieldset>
-          
+
           <label for="name">Nombre de usuario:</label>
           <input type="text" id="name" name="user_name">
           
@@ -22,7 +22,8 @@
           
         </fieldset>
         
-        <button type="submit">Registrame</button>
+        <button type="submit">Entrar</button>
+
       </form>
       
     </body>
