@@ -12,17 +12,13 @@
       
         <h1>Iniciar sesión</h1>
         
-        <fieldset>
-
-          <label for="name">Nombre de usuario:</label>
-          <input type="text" id="name" name="user_name">
-          
-          <label for="password">Contraseña:</label>
-          <input type="password" id="password" name="user_password">
-          
-        </fieldset>
+        <label for="name">Nombre de usuario:</label>
+        <input type="text" id="name" name="user_name">
         
-        <button type="submit">Entrar</button>
+        <label for="password">Contraseña:</label>
+        <input type="password" id="password" name="user_password">
+        
+        <br><br><button type="submit">Entrar</button>
 
       </form>
       
