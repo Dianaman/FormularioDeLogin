@@ -10,10 +10,10 @@
 
       <form action="index.html" method="post">
       
-        <h1>Registro</h1>
+        <h1>Iniciar sesión</h1>
         
         <fieldset>
-          <legend><span class="number">1</span>Información básica</legend>
+          
           <label for="name">Nombre de usuario:</label>
           <input type="text" id="name" name="user_name">
           
